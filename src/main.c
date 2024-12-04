@@ -24,6 +24,9 @@ Resolvi usar listas encadeadas para essa tarefa para exercitar meus conhecimento
 
 //gcc src/*.c -I include -o programa
 
+//GITHUB LINK: 
+//https://github.com/MigueldsBatista/Calculator
+//git
 
 
 

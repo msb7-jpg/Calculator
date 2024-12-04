@@ -9,9 +9,9 @@
 
 struct Node;
 
-void DeleteFirstFloat(struct Node** start);
+void DeleteFirst(struct Node** start);
 
-void InsertLastFloat(float target, struct Node** start); // Note que o tipo `int` deve ser `float` para consistência
+void InsertLast(float target, struct Node** start); 
 
 int Length(struct Node *top); //retorna o tamanho de uma lista dinamica
 
